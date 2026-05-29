@@ -32,10 +32,9 @@ I'm a passionate **Front-End Developer** dedicated to crafting beautiful, access
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaiwant-thomas&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="stats card" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaiwant-thomas&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages card" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaiwant-thomas&theme=tokyonight&hide_border=true" height="180" alt="streak stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jaiwant-thomas&theme=tokyonight" height="180" alt="languages card" />
 </p>
-
 
 ---
 
