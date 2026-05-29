@@ -32,9 +32,10 @@ I'm a passionate **Front-End Developer** dedicated to crafting beautiful, access
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="stats card" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages card" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jaiwant-thomas&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="stats card" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaiwant-thomas&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages card" />
 </p>
+
 
 ---
 
