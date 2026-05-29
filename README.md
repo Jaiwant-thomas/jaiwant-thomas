@@ -29,8 +29,6 @@ I'm a passionate **Front-End Developer** dedicated to crafting beautiful, access
 
 ---
 
-### Animated Text
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=38B2AC&center=true&vCenter=true&width=500&lines=Front-End+Developer;UI%2FUX+Enthusiast;React+%26+Next.js+Developer" alt="Typing SVG" />
 </p>
