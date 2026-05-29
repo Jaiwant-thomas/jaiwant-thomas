@@ -43,3 +43,9 @@ I'm a passionate **Front-End Developer** dedicated to crafting beautiful, access
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR-LINKEDIN](https://in.linkedin.com/in/jaiwant-thomas-703939221))
 [![Portfolio](https://img.shields.io/badge/Portfolio-✨-purple?style=for-the-badge)]([https://YOUR-PORTFOLIO-URL.com](https://jaiwant-practice-tech.vercel.app/))
 [![Email](https://img.shields.io/badge/Email-📧-orange?style=for-the-badge)](mailto:jaiwantamrsoftech@gmail.com)
+
+----
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=38B2AC&center=true&vCenter=true&width=500&lines=Front-End+Developer;UI%2FUX+Enthusiast;React+%26+Next.js+Developer" alt="Typing SVG" />
+</p>
