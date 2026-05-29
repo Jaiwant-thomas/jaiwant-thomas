@@ -40,6 +40,6 @@ I'm a passionate **Front-End Developer** dedicated to crafting beautiful, access
 
 ### 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/Portfolio-✨-purple?style=for-the-badge)](https://YOUR-PORTFOLIO-URL.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR-LINKEDIN](https://in.linkedin.com/in/jaiwant-thomas-703939221))
+[![Portfolio](https://img.shields.io/badge/Portfolio-✨-purple?style=for-the-badge)]([https://YOUR-PORTFOLIO-URL.com](https://jaiwant-practice-tech.vercel.app/))
 [![Email](https://img.shields.io/badge/Email-📧-orange?style=for-the-badge)](mailto:jaiwantamrsoftech@gmail.com)
