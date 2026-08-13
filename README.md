@@ -1,54 +1,89 @@
-# Hi there, I'm Jaiwant! 👋
+<div align="center">
 
-I'm a passionate **Front-End Developer** dedicated to crafting beautiful, accessible, and highly interactive user experiences. I love turning complex problems into clean, efficient, and responsive code.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38B2AC,100:007ACC&height=200&section=header&text=Hi%20There,%20I'm%20Jaiwant!&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Front-End%20Developer%20%7C%20UI%2FUX%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 
-- 🚀 Currently working on perfecting my UI/UX and animation skills.
-- 💡 Fun fact: I believe a pixel-perfect layout is a love letter to the user.
-- 💬 Ask me about: React, CSS architecture, or web performance optimization.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Crafting+Beautiful+User+Experiences;React+%26+Next.js+Developer;Pixel-Perfect+UI+Enthusiast;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 
----
+<br/>
 
-### 🛠️ My Tech Stack
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/jaiwant-thomas-703939221)
+[![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white)](https://jaiwant-practice-tech.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaiwantamrsoftech@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=jaiwant-thomas&style=for-the-badge&color=38B2AC&label=PROFILE+VIEWS)
 
-**Languages & Core Web Technologies**
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+</div>
+
+<br/>
+
+## 🧑‍💻 About Me
+
+```javascript
+const jaiwant = {
+    role: "Front-End Developer",
+    focus: ["UI/UX", "Animations", "Performance"],
+    currentlyLearning: "Advanced React Patterns & Motion Design",
+    funFact: "A pixel-perfect layout is a love letter to the user 💌",
+    askMeAbout: ["React", "CSS Architecture", "Web Performance"],
+};
+```
+
+- 🚀 Currently focused on perfecting my **UI/UX and animation** craft
+- 🌱 Diving deeper into **React performance optimization** and **design systems**
+- 💬 Always happy to talk **React, CSS architecture, or web performance**
+- ⚡ Fun fact: good code should feel as smooth as good design looks
+
+<br/>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages & Core Web**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts&theme=dark" />
 
 **Frameworks & Libraries**
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux&theme=dark" />
 
 **Design & Tooling**
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----
+<img src="https://skillicons.dev/icons?i=figma,git,github,vscode&theme=dark" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=38B2AC&center=true&vCenter=true&width=500&lines=Front-End+Developer;UI%2FUX+Enthusiast;React+%26+Next.js+Developer" alt="Typing SVG" />
-</p>
+</div>
 
+<br/>
 
----
+## 📊 GitHub Analytics
 
-### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jaiwant-thomas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaiwant-thomas&theme=tokyonight&hide_border=true" width="49%" />
+</div>
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaiwant-thomas&theme=tokyonight&hide_border=true" height="180" alt="streak stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jaiwant-thomas&theme=tokyonight" height="180" alt="languages card" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaiwant-thomas&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="49%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaiwant-thomas&theme=tokyo-night&hide_border=true" width="49%" />
+</div>
 
----
+<br/>
 
-### 🌐 Connect with Me
+## 🏆 GitHub Trophies
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR-LINKEDIN](https://in.linkedin.com/in/jaiwant-thomas-703939221))
-[![Portfolio](https://img.shields.io/badge/Portfolio-✨-purple?style=for-the-badge)]([https://YOUR-PORTFOLIO-URL.com](https://jaiwant-practice-tech.vercel.app/))
-[![Email](https://img.shields.io/badge/Email-📧-orange?style=for-the-badge)](mailto:jaiwantamrsoftech@gmail.com)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jaiwant-thomas&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" />
+</div>
 
-----
+<br/>
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-Jaiwant%20Thomas-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://in.linkedin.com/in/jaiwant-thomas-703939221)
+[![Portfolio](https://img.shields.io/badge/-My%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://jaiwant-practice-tech.vercel.app/)
+[![Gmail](https://img.shields.io/badge/-jaiwantamrsoftech%40gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:jaiwantamrsoftech@gmail.com)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:007ACC,100:38B2AC&height=100&section=footer" width="100%"/>
