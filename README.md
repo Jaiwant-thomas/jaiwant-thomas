@@ -7,7 +7,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/jaiwant-thomas-703939221)
-[![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white)](https://jaiwant-practice-tech.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white)](https://jaiwantdev.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaiwantamrsoftech@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=jaiwant-thomas&style=for-the-badge&color=38B2AC&label=PROFILE+VIEWS)
 
